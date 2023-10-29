@@ -1,0 +1,20 @@
+.my-name{
+	border-style: solid;
+  border-width: 7px;
+  border-color: black;
+}
+h1{
+	font-family: 'Young Serif', serif;
+}
+h3{
+	font-family: 'Gabarito', cursive;
+}
+h4{
+	font-family: 'Gabarito', cursive;
+}
+h5{
+	font-family: 'Lato', sans-serif;
+}
+.background{
+	background-color: #DEE2EB;
+}
